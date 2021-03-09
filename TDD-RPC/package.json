@@ -1,0 +1,16 @@
+{
+  "name": "json-rpc-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "6.0.2",
+    "q": "^1.5.1"
+  }
+}
